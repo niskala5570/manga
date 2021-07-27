@@ -1,0 +1,17 @@
+{
+  "title": "komikminiseirei",
+  "description": "Komik mini di akhir episod",
+  "artist": "Minazuki Futago",
+  "author": "Minazuki Futago",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1627426511",
+      "groups": {
+        "Shirayuki Project Scans": "/proxy/api/imgur/chapter/5uNngPd/"
+      }
+    }
+  }
+}
