@@ -1,24 +1,24 @@
 {
   "title": "Komik Mini Seirei Gensouki [Jawi]",
-  "description": "كوميک ميني دأخير ايڤيسود",
+  "description": "كوميک ميني دأخير ايڤيسود\n[کمس کيني 8.8.2022]\n- اکو ده مالس نق کمس کيني بهکن ترلوڤا لول",
   "artist": "مينازوكي فوتاڬو",
   "author": "مينازوكي فوتاڬو",
-  "cover": "",
+  "cover": "https://static.wikia.nocookie.net/seirei-gensouki/images/c/cb/Visual_1.jpg/revision/latest/scale-to-width-down/1000?cb=20201127062358",
   "chapters": {
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1627496802",
-      "groups": {
-        "شيراتوكي ڤروجيک سكين‌س": "/proxy/api/imgur/chapter/Q9RnJpL/"
-      }
-    },
     "1": {
       "title": "1",
       "volume": "1",
       "last_updated": "1627426734",
       "groups": {
         "شيراتوكي ڤروجيک سكين‌س": "/proxy/api/imgur/chapter/0ku7YeZ/"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1627496802",
+      "groups": {
+        "شيراتوكي ڤروجيک سكين‌س": "/proxy/api/imgur/chapter/Q9RnJpL/"
       }
     }
   }
